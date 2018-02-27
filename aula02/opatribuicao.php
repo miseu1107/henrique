@@ -1,6 +1,7 @@
 <?php
 //OPERADORES ATRIBUIÇÃO
 
+
 echo "<pre>";
 echo "<br>";
 echo "<hr>";
